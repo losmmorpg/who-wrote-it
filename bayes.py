@@ -68,7 +68,7 @@ for category in categories:
     model[category] = topWords, totalWords, totalFiles
 # output results
 print()
-print("Finished learned model for categories:", categories)
+print("Finished learning model for categories:", categories)
 print("--")
 
 # testing phase
