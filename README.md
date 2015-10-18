@@ -8,6 +8,7 @@ To use the program, run bayes.py. It'll prompt you to input a filename with the 
 categories.txt contains the list of authors to train from. You must create a folder for each author in the list, and in there put text files of that author's work. Thus, shakespeare/ contains examples of Shakespeare writing, etc.
 
 Example session:
+
     Enter name of file to be classified: test/london.txt
     
     *** Predicted category: london ***
